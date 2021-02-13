@@ -1,2 +1,4 @@
-/basic_repo
+basic_repo
 secrets.js
+*.txt
+log*
